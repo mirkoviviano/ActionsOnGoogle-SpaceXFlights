@@ -2,6 +2,8 @@
 
 This is a simple Action on Google to learn about the next SpaceX Flight. It uses the [Node.js client library](https://github.com/actions-on-google/actions-on-google-nodejs) and [Firebase Hosting](https://firebase.google.com/docs/hosting).
 
+The Action is listed on the [Google Assistant Directory](https://assistant.google.com/services/a/uid/00000090a74c3d54) - leave a review if you like it.
+
 You can interact with the deployed Action on 
 + Android 6.0+ watches
 + Android 6.0+ TVs
